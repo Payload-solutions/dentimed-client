@@ -1,11 +1,11 @@
 <template>
     <div>
-        <h1>This is the Home vue</h1>
+        <h1>Page not found 😬</h1>
     </div>
 </template>
 
 <script>
 export default{
-    name: "Home",
+    name: "NotFound",
 };
 </script>

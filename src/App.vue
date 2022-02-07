@@ -1,20 +1,29 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <b-navbar toggleable="md" type="dark" variant="dark">
+      <b-container>
+        <b-navbar-brand :to="{ name: 'Home' }"
+          >
+          Yogur-vision</b-navbar-brand
+        >
+        <b-navbar-brand :to="{ name: 'Contacts' }"
+          >
+          Contacts</b-navbar-brand
+        >
+        <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
+
+        <b-collapse id="nav-collapse" is-nav>
+          <b-navbar-nav>
+            <b-nav-item :to="{ name: 'Products' }">productos</b-nav-item>
+            <!-- <b-nav-item :to="{ name: 'image-train' }">predicción</b-nav-item>
+            <b-nav-item :to="{ name: 'stats' }">histórico</b-nav-item> -->
+          </b-navbar-nav>
+        </b-collapse>
+      </b-container>
+    </b-navbar>
+    <router-view />
   </div>
 </template>
-
-<script>
-import HelloWorld from './components/HelloWorld.vue'
-
-export default {
-  name: 'App',
-  components: {
-    HelloWorld
-  }
-}
-</script>
 
 <style>
 #app {
@@ -23,6 +32,15 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
+}
+#nav {
+  padding: 30px;
+}
+#nav a {
+  font-weight: bold;
+  color: #2c3e50;
+}
+#nav a.router-link-exact-active {
+  color: #42b983;
 }
 </style>

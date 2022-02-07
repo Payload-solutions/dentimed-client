@@ -1,5 +1,11 @@
 <template>
     <div>
-        <h1>This is the products views</h1>
+        <h1>Product view</h1>
     </div>
 </template>
+
+<script>
+export default{
+    name: "Product",
+};
+</script>
