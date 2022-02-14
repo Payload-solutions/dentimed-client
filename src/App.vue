@@ -4,19 +4,14 @@
       <b-container>
         <b-navbar-brand :to="{ name: 'Home' }"
           >
-          Yogur-vision</b-navbar-brand
-        >
-        <b-navbar-brand :to="{ name: 'Contacts' }"
-          >
-          Contacts</b-navbar-brand
+          Dentimed</b-navbar-brand
         >
         <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
 
         <b-collapse id="nav-collapse" is-nav>
           <b-navbar-nav>
             <b-nav-item :to="{ name: 'Products' }">productos</b-nav-item>
-            <!-- <b-nav-item :to="{ name: 'image-train' }">predicción</b-nav-item>
-            <b-nav-item :to="{ name: 'stats' }">histórico</b-nav-item> -->
+            <b-nav-item :to="{ name: 'Contacts' }">contáctanos</b-nav-item>
           </b-navbar-nav>
         </b-collapse>
       </b-container>
