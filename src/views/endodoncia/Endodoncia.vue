@@ -1,11 +1,11 @@
 <template>
-  <div class="container" id="products-style">
+  <div class="container">
     <div class="row">
-      <div class="col-md-4">
+      <div class="col-md-6" id="products-style">
         <div class="card">
           <img
             class="card-img-top"
-            src="../assets/endodoncia/1-1.jpg"
+            src="../../assets/endodoncia/1-1.jpg"
             alt="Card image cap"
           />
           <div class="card-body">
@@ -18,11 +18,11 @@
           </div>
         </div>
       </div>
-      <div class="col-md-4">
+      <div class="col-md-6" id="products-style">
         <div class="card">
           <img
             class="card-img-top"
-            src="../assets/endodoncia/1-2.jpg"
+            src="../../assets/endodoncia/1-2.jpg"
             alt="Card image cap"
           />
           <div class="card-body">
@@ -35,11 +35,11 @@
           </div>
         </div>
       </div>
-      <div class="col-md-4">
+      <div class="col-md-6" id="products-style">
         <div class="card">
           <img
             class="card-img-top"
-            src="../assets/endodoncia/2-1.jpg"
+            src="../../assets/endodoncia/2-1.jpg"
             alt="Card image cap"
           />
           <div class="card-body">
@@ -52,11 +52,11 @@
           </div>
         </div>
       </div>
-      <div class="col-md-4">
+      <div class="col-md-6" id="products-style">
         <div class="card">
           <img
             class="card-img-top"
-            src="../assets/endodoncia/2-2.jpg"
+            src="../../assets/endodoncia/2-2.jpg"
             alt="Card image cap"
           />
           <div class="card-body">
@@ -69,11 +69,11 @@
           </div>
         </div>
       </div>
-      <div class="col-md-4">
+      <div class="col-md-6" id="products-style">
         <div class="card">
           <img
             class="card-img-top"
-            src="../assets/endodoncia/2-3.jpg"
+            src="../../assets/endodoncia/2-3.jpg"
             alt="Card image cap"
           />
           <div class="card-body">
@@ -86,11 +86,11 @@
           </div>
         </div>
       </div>
-      <div class="col-md-4">
+      <div class="col-md-6" id="products-style">
         <div class="card">
           <img
             class="card-img-top"
-            src="../assets/endodoncia/2-4.jpg"
+            src="../../assets/endodoncia/2-4.jpg"
             alt="Card image cap"
           />
           <div class="card-body">
@@ -110,6 +110,6 @@
 <style>
 #products-style {
   padding-top: 50px;
-  padding-bottom: 100px;
+  padding-bottom: 50px;
 }
 </style>

@@ -12,6 +12,8 @@
           <b-navbar-nav>
             <b-nav-item :to="{ name: 'Products' }">productos</b-nav-item>
             <b-nav-item :to="{ name: 'Contacts' }">contáctanos</b-nav-item>
+            <b-nav-item :to="{ name: 'ortodoncia' }">ortodoncia</b-nav-item>
+            <b-nav-item :to="{ name: 'endodoncia' }">endodoncia</b-nav-item>
           </b-navbar-nav>
         </b-collapse>
       </b-container>
