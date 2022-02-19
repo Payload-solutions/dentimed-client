@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <b-navbar toggleable="md" type="dark" variant="dark">
+    <b-navbar toggleable="md" type="light" variant="light">
       <b-container>
         <b-navbar-brand :to="{ name: 'Home' }"
           >
