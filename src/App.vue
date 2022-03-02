@@ -4,7 +4,7 @@
       <b-container>
         <b-navbar-brand :to="{ name: 'Home' }"
           >
-          Dentimed</b-navbar-brand
+          <img src="./assets/dentimed_logo.png" alt=""/></b-navbar-brand
         >
         <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
 
