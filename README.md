@@ -22,3 +22,15 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+#### Dentimed client
+
+#### ToDo list:
+
+    Ortodoncia Done [*]
+    Endodoncia Done []
+    Pinzas Done []
+    Forceps Done []
+    Elevadores Done []
+    Endodoncia Done []
+    Endodoncia Done []

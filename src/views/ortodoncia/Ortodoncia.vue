@@ -225,21 +225,21 @@
             <table class="table">
               <thead>
                 <tr>
-                  <th scope="col">6b-01-001</th>
-                  <th scope="col">6b-01-003</th>
-                  <th scope="col">6b-01-005</th>
+                  <th scope="col">6b-01-023</th>
+                  <th scope="col">6b-01-024</th>
+                  <th scope="col">6b-01-028</th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
-                  <th>Pinza Aderer</th>
-                  <th>Pinza Angle N°1</th>
-                  <th>Pinza Angle N°2</th>
+                  <th>Pinza Young para hacer lazos</th>
+                  <th>Pinza para corte de alambre duro</th>
+                  <th>Pinza de corte ligero fine 13cm</th>
                 </tr>
                 <tr>
                   <th>$ 11.50</th>
-                  <th>$ 11.50</th>
-                  <th>$ 11.50</th>
+                  <th>$ 39.00</th>
+                  <th>$ 39.00</th>
                 </tr>
               </tbody>
             </table>
@@ -260,19 +260,19 @@
             <table class="table">
               <thead>
                 <tr>
-                  <th scope="col">6b-01-001</th>
-                  <th scope="col">6b-01-003</th>
-                  <th scope="col">6b-01-005</th>
+                  <th scope="col">6b-01-030</th>
+                  <th scope="col">6b-01-032</th>
+                  <th scope="col">6b-01-033</th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
-                  <th>Pinza Aderer</th>
-                  <th>Pinza Angle N°1</th>
-                  <th>Pinza Angle N°2</th>
+                  <th>Pinza para corte distal fino 13cm</th>
+                  <th>Pinza para remover brackets recta</th>
+                  <th>Pinza para remover brackets curva</th>
                 </tr>
                 <tr>
-                  <th>$ 11.50</th>
+                  <th>$ 39.00</th>
                   <th>$ 11.50</th>
                   <th>$ 11.50</th>
                 </tr>
@@ -295,21 +295,24 @@
             <table class="table">
               <thead>
                 <tr>
-                  <th scope="col">6b-01-001</th>
-                  <th scope="col">6b-01-003</th>
+                  <th scope="col">6b-01-048</th>
+                  <th scope="col">6b-01-059</th>
+                  <th scope="col">6b-01-066</th>
                   <th scope="col">6b-01-005</th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
-                  <th>Pinza Aderer</th>
-                  <th>Pinza Angle N°1</th>
+                  <th>Pinza para colocar brackets curva</th>
+                  <th>Porta aguja Mathieu</th>
+                  <th>Estrella de altura posicionador de bandas</th>
                   <th>Pinza Angle N°2</th>
                 </tr>
                 <tr>
+                  <th>$ 4.00</th>
                   <th>$ 11.50</th>
                   <th>$ 11.50</th>
-                  <th>$ 11.50</th>
+                  <th>$ 9.75</th>
                 </tr>
               </tbody>
             </table>
@@ -330,21 +333,21 @@
             <table class="table">
               <thead>
                 <tr>
-                  <th scope="col">6b-01-001</th>
-                  <th scope="col">6b-01-003</th>
-                  <th scope="col">6b-01-005</th>
+                  <th scope="col">6b-01-034</th>
+                  <th scope="col">6b-01-035</th>
+                  <th scope="col">6b-01-037</th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
-                  <th>Pinza Aderer</th>
-                  <th>Pinza Angle N°1</th>
-                  <th>Pinza Angle N°2</th>
+                  <th>Pinza alicate acanalado</th>
+                  <th>Pinza para elásticos</th>
+                  <th>Pinza de picos dobles</th>
                 </tr>
                 <tr>
                   <th>$ 11.50</th>
-                  <th>$ 11.50</th>
-                  <th>$ 11.50</th>
+                  <th>$ 16.00</th>
+                  <th>$ 24.50</th>
                 </tr>
               </tbody>
             </table>
@@ -365,21 +368,21 @@
             <table class="table">
               <thead>
                 <tr>
-                  <th scope="col">6b-01-001</th>
-                  <th scope="col">6b-01-003</th>
+                  <th scope="col">6b-01-033</th>
+                  <th scope="col">6b-01-002</th>
                   <th scope="col">6b-01-005</th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
-                  <th>Pinza Aderer</th>
-                  <th>Pinza Angle N°1</th>
-                  <th>Pinza Angle N°2</th>
+                  <th>Pinza para remover brackets curva</th>
+                  <th>Pinza aderer tres picos largas</th>
+                  <th>Pinza para doblar barras</th>
                 </tr>
                 <tr>
                   <th>$ 11.50</th>
                   <th>$ 11.50</th>
-                  <th>$ 11.50</th>
+                  <th>$ pendiente</th>
                 </tr>
               </tbody>
             </table>
@@ -400,20 +403,23 @@
             <table class="table">
               <thead>
                 <tr>
-                  <th scope="col">6b-01-001</th>
-                  <th scope="col">6b-01-003</th>
-                  <th scope="col">6b-01-005</th>
+                  <th scope="col">6b-01-039</th>
+                  <th scope="col">6b-01-036</th>
+                  <th scope="col">6b-01-047</th>
+                  <th scope="col">6b-01-040</th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
-                  <th>Pinza Aderer</th>
-                  <th>Pinza Angle N°1</th>
-                  <th>Pinza Angle N°2</th>
+                  <th>Pinza alicate de tope</th>
+                  <th>Instrumentos para elásticos</th>
+                  <th>Lápiz ligador</th>
+                  <th>Pinza para arcos linguales</th>
                 </tr>
                 <tr>
                   <th>$ 11.50</th>
-                  <th>$ 11.50</th>
+                  <th>$ 3.15</th>
+                  <th>$ 16.50</th>
                   <th>$ 11.50</th>
                 </tr>
               </tbody>
