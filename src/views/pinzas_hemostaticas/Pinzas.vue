@@ -9,12 +9,27 @@
             alt="Card image cap"
           />
           <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">
-              Some quick example text to build on the card title and make up the
-              bulk of the card's content.
-            </p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
+            <table class="table">
+              <thead>
+                <tr>
+                  <th scope="col">6b-19-001</th>
+                  <th scope="col">6b-19-002</th>
+                  <th scope="col">6b-19-003</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <th>Pinza mosquito curva</th>
+                  <th>Pinza mosquito recta</th>
+                  <th>Pinza baby mosquito curva</th>
+                </tr>
+                <tr>
+                  <th>$ 4.50</th>
+                  <th>$ 4.50</th>
+                  <th>$ 4.50</th>
+                </tr>
+              </tbody>
+            </table>
           </div>
         </div>
       </div>
@@ -26,12 +41,27 @@
             alt="Card image cap"
           />
           <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">
-              Some quick example text to build on the card title and make up the
-              bulk of the card's content.
-            </p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
+            <table class="table">
+              <thead>
+                <tr>
+                  <th scope="col">6b-19-004</th>
+                  <th scope="col">6b-19-005</th>
+                  <th scope="col">6b-19-006</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <th>Pinza baby mnosquito recta</th>
+                  <th>Pinza Kelly curva</th>
+                  <th>Pinza Kelly recta</th>
+                </tr>
+                <tr>
+                  <th>$ 4.50</th>
+                  <th>$ 5.50</th>
+                  <th>$ 5.50</th>
+                </tr>
+              </tbody>
+            </table>
           </div>
         </div>
       </div>
@@ -43,12 +73,27 @@
             alt="Card image cap"
           />
           <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">
-              Some quick example text to build on the card title and make up the
-              bulk of the card's content.
-            </p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
+            <table class="table">
+              <thead>
+                <tr>
+                  <th scope="col">6b-19-007</th>
+                  <th scope="col">6b-01-003</th>
+                  <th scope="col">6b-01-005</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <th>Pinza Allis</th>
+                  <th>Pinza por definirse</th>
+                  <th>Pinza por definirse</th>
+                </tr>
+                <tr>
+                  <th>$ 7.80</th>
+                  <th>$ por definirse</th>
+                  <th>$ por definirse</th>
+                </tr>
+              </tbody>
+            </table>
           </div>
         </div>
       </div>
@@ -60,12 +105,30 @@
             alt="Card image cap"
           />
           <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">
-              Some quick example text to build on the card title and make up the
-              bulk of the card's content.
-            </p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
+            <table class="table">
+              <thead>
+                <tr>
+                  <th scope="col">6b-19-010</th>
+                  <th scope="col">6b-19-011</th>
+                  <th scope="col">6b-01-005</th>
+                  <th scope="col">6b-01-005</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <th>Pinza de campo Backhaus 11 cm</th>
+                  <th>Pinza de campo Backhaus 8 cm</th>
+                  <th>Pinza Angle N°2</th>
+                  <th>Pinza Angle N°2</th>
+                </tr>
+                <tr>
+                  <th>$ 11.50</th>
+                  <th>$ 11.50</th>
+                  <th>$ 11.50</th>
+                  <th>$ 11.50</th>
+                </tr>
+              </tbody>
+            </table>
           </div>
         </div>
       </div>
@@ -77,12 +140,27 @@
             alt="Card image cap"
           />
           <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">
-              Some quick example text to build on the card title and make up the
-              bulk of the card's content.
-            </p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
+            <table class="table">
+              <thead>
+                <tr>
+                  <th scope="col">6b-01-001</th>
+                  <th scope="col">6b-01-003</th>
+                  <th scope="col">6b-01-005</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <th>Pinza Aderer</th>
+                  <th>Pinza Angle N°1</th>
+                  <th>Pinza Angle N°2</th>
+                </tr>
+                <tr>
+                  <th>$ 11.50</th>
+                  <th>$ 11.50</th>
+                  <th>$ 11.50</th>
+                </tr>
+              </tbody>
+            </table>
           </div>
         </div>
       </div>
@@ -94,12 +172,27 @@
             alt="Card image cap"
           />
           <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">
-              Some quick example text to build on the card title and make up the
-              bulk of the card's content.
-            </p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
+            <table class="table">
+              <thead>
+                <tr>
+                  <th scope="col">6b-01-001</th>
+                  <th scope="col">6b-01-003</th>
+                  <th scope="col">6b-01-005</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <th>Pinza Aderer</th>
+                  <th>Pinza Angle N°1</th>
+                  <th>Pinza Angle N°2</th>
+                </tr>
+                <tr>
+                  <th>$ 11.50</th>
+                  <th>$ 11.50</th>
+                  <th>$ 11.50</th>
+                </tr>
+              </tbody>
+            </table>
           </div>
         </div>
       </div>
@@ -111,12 +204,27 @@
             alt="Card image cap"
           />
           <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">
-              Some quick example text to build on the card title and make up the
-              bulk of the card's content.
-            </p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
+            <table class="table">
+              <thead>
+                <tr>
+                  <th scope="col">6b-01-001</th>
+                  <th scope="col">6b-01-003</th>
+                  <th scope="col">6b-01-005</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <th>Pinza Aderer</th>
+                  <th>Pinza Angle N°1</th>
+                  <th>Pinza Angle N°2</th>
+                </tr>
+                <tr>
+                  <th>$ 11.50</th>
+                  <th>$ 11.50</th>
+                  <th>$ 11.50</th>
+                </tr>
+              </tbody>
+            </table>
           </div>
         </div>
       </div>
@@ -128,12 +236,27 @@
             alt="Card image cap"
           />
           <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">
-              Some quick example text to build on the card title and make up the
-              bulk of the card's content.
-            </p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
+            <table class="table">
+              <thead>
+                <tr>
+                  <th scope="col">6b-01-001</th>
+                  <th scope="col">6b-01-003</th>
+                  <th scope="col">6b-01-005</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <th>Pinza Aderer</th>
+                  <th>Pinza Angle N°1</th>
+                  <th>Pinza Angle N°2</th>
+                </tr>
+                <tr>
+                  <th>$ 11.50</th>
+                  <th>$ 11.50</th>
+                  <th>$ 11.50</th>
+                </tr>
+              </tbody>
+            </table>
           </div>
         </div>
       </div>

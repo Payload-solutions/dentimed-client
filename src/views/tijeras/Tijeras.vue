@@ -178,12 +178,12 @@
               </thead>
               <tbody>
                 <tr>
-                  <th>Pinza Aderer</th>
-                  <th>Pinza Angle N°1</th>
+                  <th>Tijera Iris delgada curva</th>
+                  <th>Tijera Iris delgada recta</th>
                 </tr>
                 <tr>
-                  <th>$ 11.50</th>
-                  <th>$ 11.50</th>
+                  <th>$ 3.00</th>
+                  <th>$ 3.00</th>
                 </tr>
               </tbody>
             </table>
