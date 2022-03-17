@@ -9,12 +9,27 @@
             alt="Card image cap"
           />
           <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">
-              Some quick example text to build on the card title and make up the
-              bulk of the card's content.
-            </p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
+            <table class="table">
+              <thead>
+                <tr>
+                  <th scope="col">6b-01-001</th>
+                  <th scope="col">6b-01-003</th>
+                  <th scope="col">6b-20-003</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <th>Pendiente</th>
+                  <th>Pinza Angle N°1</th>
+                  <th>Tijera Goldman curva 13cm</th>
+                </tr>
+                <tr>
+                  <th>$ 11.50</th>
+                  <th>$ 11.50</th>
+                  <th>$ 3.00</th>
+                </tr>
+              </tbody>
+            </table>
           </div>
         </div>
       </div>
@@ -26,12 +41,27 @@
             alt="Card image cap"
           />
           <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">
-              Some quick example text to build on the card title and make up the
-              bulk of the card's content.
-            </p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
+            <table class="table">
+              <thead>
+                <tr>
+                  <th scope="col">6b-20-005</th>
+                  <th scope="col">6b-20-007</th>
+                  <th scope="col">6b-20-009</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <th>Tijera Goldman curva 13cm</th>
+                  <th>Tijera Iris encía curva</th>
+                  <th>Tijera Iris encía recta</th>
+                </tr>
+                <tr>
+                  <th>$ 3.00</th>
+                  <th>$ 3.00</th>
+                  <th>$ 3.00</th>
+                </tr>
+              </tbody>
+            </table>
           </div>
         </div>
       </div>
@@ -43,12 +73,27 @@
             alt="Card image cap"
           />
           <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">
-              Some quick example text to build on the card title and make up the
-              bulk of the card's content.
-            </p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
+            <table class="table">
+              <thead>
+                <tr>
+                  <th scope="col">6b-20-012</th>
+                  <th scope="col">6b-20-013</th>
+                  <th scope="col">6b-20-021</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <th>Tijeras Castroviejo curva</th>
+                  <th>Tijeras Castroviejo recta</th>
+                  <th>Tijera Mayo curva</th>
+                </tr>
+                <tr>
+                  <th>$ 7.50</th>
+                  <th>$ 7.50</th>
+                  <th>$ 4.50</th>
+                </tr>
+              </tbody>
+            </table>
           </div>
         </div>
       </div>
@@ -60,12 +105,27 @@
             alt="Card image cap"
           />
           <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">
-              Some quick example text to build on the card title and make up the
-              bulk of the card's content.
-            </p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
+            <table class="table">
+              <thead>
+                <tr>
+                  <th scope="col">6b-20-023</th>
+                  <th scope="col">6b-20-017</th>
+                  <th scope="col">6b-20-018</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <th>Tijera Mayo recta</th>
+                  <th>Tijera para Oro curva</th>
+                  <th>Tijera para Oro recta</th>
+                </tr>
+                <tr>
+                  <th>$ 4.50</th>
+                  <th>$ 3.50</th>
+                  <th>$ 3.50</th>
+                </tr>
+              </tbody>
+            </table>
           </div>
         </div>
       </div>
@@ -77,12 +137,27 @@
             alt="Card image cap"
           />
           <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">
-              Some quick example text to build on the card title and make up the
-              bulk of the card's content.
-            </p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
+            <table class="table">
+              <thead>
+                <tr>
+                  <th scope="col">6b-01-001</th>
+                  <th scope="col">6b-01-003</th>
+                  <th scope="col">6b-01-005</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <th>Pendiente</th>
+                  <th>Pendiente</th>
+                  <th>Pendiente</th>
+                </tr>
+                <tr>
+                  <th>$ Pendiente</th>
+                  <th>$ Pendiente</th>
+                  <th>$ Pendiente</th>
+                </tr>
+              </tbody>
+            </table>
           </div>
         </div>
       </div>
@@ -94,12 +169,24 @@
             alt="Card image cap"
           />
           <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">
-              Some quick example text to build on the card title and make up the
-              bulk of the card's content.
-            </p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
+            <table class="table">
+              <thead>
+                <tr>
+                  <th scope="col">6b-20-010</th>
+                  <th scope="col">6b-20-011</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <th>Pinza Aderer</th>
+                  <th>Pinza Angle N°1</th>
+                </tr>
+                <tr>
+                  <th>$ 11.50</th>
+                  <th>$ 11.50</th>
+                </tr>
+              </tbody>
+            </table>
           </div>
         </div>
       </div>
